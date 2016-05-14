@@ -1,4 +1,4 @@
-andersfisher.com
+barisi.me
 ================
 
-My personal website using github pages
+A personal website based on andersfisher.com
