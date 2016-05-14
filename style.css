@@ -178,14 +178,14 @@ section.availability:before{
   border-left-color:#476858;
 }
 
-section.testimonials{
+/*section.testimonials{
   background:#3e606f;
   color:#fcfff5;
 }
 section.testimonials:before{
   border-bottom-color:#3e606f;
   border-left-color:#91aa9d;
-}
+}*/
 
 section.projects{
   background:#fcfff5;
@@ -197,12 +197,12 @@ section.projects:before{
 }
 
 section.contact{
-  background:#91aa9d;
-  color:#193441;
+  background:#3e606f;
+  color:#fcfff5;
 }
 section.contact:before{
-  border-bottom-color:#91aa9d;
-  border-left-color:#fcfff5;
+  border-bottom-color:#3e606f;
+  border-left-color:#91aa9d;
 }
 
 blockquote{
