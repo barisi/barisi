@@ -187,13 +187,13 @@ section.testimonials:before{
   border-left-color:#91aa9d;
 }*/
 
-section.projects{
-  background:#fcfff5;
+section.certifications{
+  background:#fffff5;
   color:#476858;
 }
-section.projects:before{
-  border-bottom-color:#fcfff5;
-  border-left-color:#3e606f;
+section.certifications:before{
+  border-bottom-color:#fffff5;
+  border-left-color:#91aa9d;
 }
 
 section.contact{
@@ -202,7 +202,7 @@ section.contact{
 }
 section.contact:before{
   border-bottom-color:#3e606f;
-  border-left-color:#91aa9d;
+  border-left-color:#fffff5;
 }
 
 blockquote{
