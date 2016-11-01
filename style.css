@@ -163,7 +163,7 @@ section.skills{
 }
 section.skills:before{
   border-bottom-color:#fcfff5;
-  border-left-color:#193441;
+  border-left-color:#476858;
 }
 
 section.about{
@@ -172,7 +172,7 @@ section.about{
 }
 section.about:before{
   border-bottom-color:#476858;
-  border-left-color:#fcfff5;
+  border-left-color:#193441;
 }
 
 section.availability{
@@ -181,7 +181,7 @@ section.availability{
 }
 section.availability:before{
   border-bottom-color:#91aa9d;
-  border-left-color:#476858;
+  border-left-color:#fcfff5;
 }
 
 /*section.testimonials{
