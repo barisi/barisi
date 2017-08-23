@@ -4,7 +4,9 @@ self.addEventListener('install', function(e) {
             return cache.addAll(['/', '/index.html', '/modernizr.js', '/style.css', '/underscore.js', '/images/favicon.ico', 
                 '/images/Developer-Associate.png', '/images/favicon.png', '/images/Solutions-Architect-Associate.png', 
                 '/images/SysOps-Administrator-Associate.png', '/manifest.json', '/fonts/icomoon.woff', '/fonts/icomoon.ttf', 
-                '/fonts/icomoon.svg', '/fonts/icomoon.eot', '/fonts/icomoon.dev.svg', 'service-worker.js']);
+                '/fonts/icomoon.svg', '/fonts/icomoon.eot', '/fonts/icomoon.dev.svg', 'service-worker.js',
+                '//fonts.googleapis.com/css?family=Lato:300', '//fonts.googleapis.com/css?family=Open+Sans:300'
+            ]);
         })
     );
 });
