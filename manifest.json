@@ -1,9 +1,9 @@
 {
   "name": "barisi.me",
   "short_name": "Barisi",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#ECEFF1",
+  "theme_color": "#193441",
   "background_color": "#ECEFF1",
   "icons": [{
     "src": "images/favicon.png",
