@@ -2,6 +2,7 @@
 
 sudo apt-get update -y
 sudo apt-get upgrade -y
+sudo apt-get autoremove -y
 
 sudo apt-get install -y php php7.0-fpm nginx letsencrypt zip unzip php-xml
 
